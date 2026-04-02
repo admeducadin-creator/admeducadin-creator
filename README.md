@@ -4,4 +4,5 @@
   
 - The project EducaDin is an idea that teaches young people about financial education in a simple and fun way. Follow us on this journey. 
 
+## 📫 Redes Sociais | Social Media
 [![Instagram](https://shields.io)](https://www.instagram.com/educa__din?utm_source=qr&igsh=bzMxOW1lNjN3NWRv)
