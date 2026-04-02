@@ -5,7 +5,7 @@
 - The project EducaDin is an idea that teaches young people about financial education in a simple and fun way. Follow us on this journey. 
 
 ## 📫 Redes Sociais | Social Media
-<a href="LINK_DO_SEU_PERFIL">
+<a href="https://www.linkedin.com/in/educadin-educa%C3%A7%C3%A3o-financeira-69a401400/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
