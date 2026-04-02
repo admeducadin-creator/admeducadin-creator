@@ -1,4 +1,4 @@
-## Olá, nós somos o EducaDin | Hello everyone! We are Educadin 👋
+## Olá, Bem-Vindo ao EducaDin | Hello everyone! Welcome to Educadin 👋
 
 - O Educadin surgiu da iniciativa de ensinar Educação Financeira para jovens de forma simples e divertida. Nos acompanhe nessa jornada!
   
